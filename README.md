@@ -2,4 +2,6 @@
 
 Some description.
 
-Adding here. Commit before push. New.
+Adding here. Commit before push.
+
+NEW CHANGES.
